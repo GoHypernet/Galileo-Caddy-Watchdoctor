@@ -6,14 +6,13 @@ This is a go-based Caddy server plugin designed for use with the Galileo platfor
 
 # How to build
 
-
 ```
 xcaddy build --with github.com/GoHypernet/Galileo-Caddy-Watchdoctor@v0.1.0
 ```
 
 # How to use
 
-See the included example Caddyfile for usage
+See the included Caddyfile for an example of this directive's usage.
 
 The first parameter is watch interval, the second is the timeout duration, third is nitificaiton server, the for parameter
 is a list of servers to watch. 
