@@ -7,7 +7,7 @@ This is a go-based Caddy server plugin designed for use with the Galileo platfor
 # How to build
 
 ```
-xcaddy build --with github.com/GoHypernet/Galileo-Caddy-Watchdoctor@v0.1.0
+xcaddy build --with github.com/GoHypernet/Galileo-Caddy-Watchdoctor@v0.1.1
 ```
 
 # How to use
